@@ -7,8 +7,10 @@ requires-python = ">=3.13"
 dependencies = [
     "duckdb>=1.2.1",
     "pandas>=2.2.3",
+    "pillow>=11.1.0",
     "pointblank>=0.7.1",
     "polars>=1.25.2",
+    "selenium>=4.30.0",
 ]
 
 [dependency-groups]
