@@ -14,7 +14,8 @@ Try Pointblank - https://posit-dev.github.io/pointblank/
 
 ## Status
 
-[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
+![Status: Working](https://img.shields.io/badge/status-working-brightgreen.svg)
+![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg) 
 
 ## Overview
 
